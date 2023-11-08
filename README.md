@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Welcome%20to%20Kihyeon%20House&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Welcome%20to%20Kihyeon%20GitHub&fontSize=60" />
 
 <div align=center>
   
