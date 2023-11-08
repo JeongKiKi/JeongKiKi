@@ -21,7 +21,6 @@
 <p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
@@ -35,4 +34,4 @@
 
 <br>
 
-!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongKiKi&hide=contribs,prs,issues&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jingni1115&layout=compact)
+!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongKiKi&hide=contribs,prs,issues&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongKiKi&layout=compact)
