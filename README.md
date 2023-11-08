@@ -28,11 +28,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 
-<br>
 
-<img src="https://github.com/JeongKiKi/JeongKiKi/blob/output/github-contribution-grid-snake.svg"/>
-
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongKiKi&hide=contribs,prs,issues&show_icons=true&theme=tokyonight) &nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongKiKi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
