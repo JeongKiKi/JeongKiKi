@@ -37,6 +37,6 @@
 
 <div align="center" style="text-align:center">
 	
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=JeongKiKi)](https://jkh0013011.tistory.com/)
+![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={jkh0013011}&postId={[insert_postId](https://jkh0013011.tistory.com/)}&theme={jkh0013011})
 
 </div>
